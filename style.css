@@ -1,0 +1,36 @@
+h2 {
+    color: purple;
+}
+ul {
+	color: red;
+}
+ol {
+	color: red;
+}
+body {background-color: pink;
+}
+input{/* <length> values */
+width: 200px;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+   }
+
+ label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input {
+    border-radius: 30px
+}
+.toets {margin:10px;
+}
+input {
+    
+}
